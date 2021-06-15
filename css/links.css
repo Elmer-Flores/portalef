@@ -1,0 +1,10 @@
+.link-ctc{
+    font-weight: 400;
+    color: rgb(6, 107, 60);
+    text-decoration: none;
+}
+
+.link-ctc:hover{
+    color: rgb(46, 141, 96);
+    text-decoration: underline;
+}
